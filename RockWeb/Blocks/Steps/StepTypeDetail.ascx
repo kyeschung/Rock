@@ -126,7 +126,7 @@
                                 PropertyName="HasEndDate"
                                 Label="Spans Time"
                                 Text="Yes"
-                                Help="Determines if a step is happens in a momemnt in time or if it happens over time." />
+                                Help="Determines if a step is happens in a moment in time or if it happens over time." />
                             <Rock:RockCheckBox ID="cbShowBadgeCount"
                                 runat="server"
                                 SourceTypeName="Rock.Model.StepType, Rock"
